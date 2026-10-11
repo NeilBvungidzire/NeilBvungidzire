@@ -2,8 +2,7 @@
 
 # Takudzwa Neil Bvungidzire
 
-**Senior Software Engineer · Platforms, Payments & Applied AI**
-Johannesburg, South Africa 🇿🇦 · Harare roots 🇿🇼
+<p><b>Senior Software Engineer · Platforms, Payments &amp; Applied AI</b><br/>📍 Johannesburg, South Africa</p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=620&lines=Multi-tenant+SaaS+APIs+%E2%86%92+production;Point-of-sale+on+Android%2C+iOS+%26+Windows;Edge+computer+vision+on+NVIDIA+Jetson;LLM+agents+on+self-hosted+infrastructure" alt="Typing SVG" /></a>
 
