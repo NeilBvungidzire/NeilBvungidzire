@@ -75,13 +75,6 @@ in private repos, so here's what's behind the green squares.
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-### 📈 Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NeilBvungidzire&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&title_color=14B8A6&icon_color=14B8A6" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilBvungidzire&layout=compact&hide_border=true&theme=github_dark&title_color=14B8A6" alt="Top languages" />
-
-</div>
+---
 
 <p align="center"><sub>Most of my work lives in private company repositories. Happy to walk through architecture and code in an interview.</sub></p>
